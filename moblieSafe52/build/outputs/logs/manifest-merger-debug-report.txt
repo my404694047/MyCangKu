@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:2:1-107:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Administrator\Desktop\moblieSafe52\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:15:22-69
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:17:22-67
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:21:22-63
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:23:22-75
+uses-permission#android.permission.WIFI_STATE_CHANGED
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:24:5-93
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:24:22-74
+uses-permission#android.launcher2.permission.READ_SETTINGS
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:25:5-98
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:25:22-79
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:27:5-85
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:27:22-66
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:28:5-29:75
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:29:9-56
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:30:5-31:76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:31:9-57
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:35:5-37:38
+	android:maxSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:37:9-35
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:36:9-64
+application
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:39:5-105:19
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Administrator\Desktop\moblieSafe52\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:42:9-41
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:40:9-35
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:41:9-45
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:43:9-40
+activity#com.itheima52.mobilesafe.activity.SplashActivity
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:44:9-52:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:45:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:50:27-74
+activity#com.itheima52.mobilesafe.activity.HomeActivity
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:53:9-59
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:53:19-56
+activity#com.itheima52.mobilesafe.activity.SettingActivity
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:54:9-62
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:54:19-59
+activity#com.itheima52.mobilesafe.activity.LostFindActivity
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:55:9-63
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:55:19-60
+activity#com.itheima52.mobilesafe.activity.Setup1Activity
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:56:9-61
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:56:19-58
+activity#com.itheima52.mobilesafe.activity.Setup2Activity
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:57:9-61
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:57:19-58
+activity#com.itheima52.mobilesafe.activity.Setup3Activity
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:58:9-61
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:58:19-58
+activity#com.itheima52.mobilesafe.activity.Setup4Activity
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:59:9-61
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:59:19-58
+activity#com.itheima52.mobilesafe.activity.ContactActivity
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:60:9-62
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:60:19-59
+activity#com.itheima52.mobilesafe.activity.AToolsActivity
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:61:9-61
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:61:19-58
+activity#com.itheima52.mobilesafe.activity.AddressActivity
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:62:9-62
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:62:19-59
+activity#com.itheima52.mobilesafe.activity.DragViewActivity
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:63:9-65:75
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:65:13-72
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:64:13-54
+receiver#com.itheima52.mobilesafe.receiver.BootCompleteReceiver
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:67:9-71:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:67:19-64
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:68:13-70:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:69:17-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:69:25-76
+receiver#com.itheima52.mobilesafe.receiver.SmsReceiver
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:72:9-76:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:72:19-55
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:73:13-75:29
+	android:priority
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:73:28-57
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:74:17-82
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:74:25-79
+service#com.itheima52.mobilesafe.service.LocationService
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:85:9-86:19
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:85:18-57
+service#com.itheima52.mobilesafe.service.AddressService
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:87:9-88:19
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:87:18-56
+activity#com.itheima52.mobilesafe.activity.CallSafeActivity
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:90:9-93:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:92:13-61
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:91:13-54
+service#com.itheima52.mobilesafe.service.CallSafeService
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:95:9-99:19
+	android:enabled
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:97:13-35
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:98:13-36
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:96:13-52
+activity#com.itheima52.mobilesafe.activity.AppManagerActivity
+ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:101:9-104:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:103:13-63
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\moblieSafe52\src\main\AndroidManifest.xml:102:13-56
